@@ -2,7 +2,6 @@
 # HUJI 67800 - Probabilistic Methods in AI
 # Reinforcement Learning Programming Assignment
 #     ******** The Fish Pond ********
-# Eitan Richardson 2018
 ######################################################################################################################
 import numpy as np
 from fishpond import FishPond

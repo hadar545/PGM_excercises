@@ -1,6 +1,5 @@
 ###############################################################################
 # HUJI 67800 PMAI 2018/19 - Programming Assignment 2
-# Original authors: Ya Le, Billy Jun, Xiaocheng Li, Yiftach Beer
 ###############################################################################
 import numpy as np
 import scipy.io as sio

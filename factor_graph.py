@@ -1,7 +1,5 @@
 ###############################################################################
 # factor graph data structure implementation 
-# author: Ya Le, Billy Jun, Xiaocheng Li
-# date: Jan 25, 2018
 ###############################################################################
 
 import functools
